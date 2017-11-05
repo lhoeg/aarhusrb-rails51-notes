@@ -14,4 +14,5 @@
 //= require turbolinks
 //= require jquery
 //= require bootstrap/dist/js/bootstrap
+//= require jquery-ui/ui/widgets/datepicker
 //= require_tree .
