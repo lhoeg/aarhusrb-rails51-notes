@@ -8,3 +8,10 @@
 // layout file, like app/views/layouts/application.html.erb
 
 console.log('Hello World from Webpacker')
+
+import jQuery from 'jquery'
+window.jQuery = jQuery
+window.$ = jQuery
+
+require('bootstrap/dist/js/bootstrap')
+require('jquery-ui/ui/widgets/datepicker')
